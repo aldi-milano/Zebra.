@@ -38,7 +38,7 @@ let Biodata = () => {
           </p>
           <p>
             Here's a little bit about me. I've lost my hearing due to the side
-            effect of medication that I had received for over past 2 years more or
+            effect of medication that I had been received for over 2 years more or
             less. It was devastating for me at the first. Hardly to communicate,
             cannot be able to hear the sound of the great Jimi's Hendrix guitar solo. but
             now, thank to God I can overcome it little by little and send me
