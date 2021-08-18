@@ -12,7 +12,7 @@ body {
 
 .profile-container {
   width: 40%;
-  margin-right: 20px;
+  /* margin-right: 20px; */
   border-width: thin;
   padding: 10px;
 }
@@ -37,9 +37,8 @@ body {
   }
 
   .profile-container {
-    width: 100%;
+    width: 90%;
     padding: 10px;
-    margin-right: 20px;
   }
 
   .bio {
