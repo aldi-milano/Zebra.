@@ -13,7 +13,6 @@ body {
 .profile-container {
   width: 40%;
   margin-right: 20px;
-  border-right: solid;
   border-width: thin;
   padding: 10px;
 }
@@ -29,4 +28,22 @@ body {
 
 .bio p {
   text-align: justify;
+}
+
+@media only screen and (max-width: 768px) {
+  .profile {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .profile-container {
+    width: 100%;
+    padding: 10px;
+    margin-right: 20px;
+  }
+
+  .bio {
+    width: 100%;
+  }
+
 }

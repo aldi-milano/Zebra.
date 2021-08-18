@@ -34,7 +34,7 @@ let Biodata = () => {
         <div className="bio">
           <h2>BIO</h2>
           <p>
-            Hai, this is Biography column, I'd like to make it side by side.
+            Hai, this is Biography column, I'd like to make it side by side for bigger screen.
           </p>
           <p>
             Here's a little bit about me. I've lost my hearing due to the side
@@ -42,7 +42,7 @@ let Biodata = () => {
             less. It was devastating for me at the first. Hardly to communicate,
             cannot be able to hear the sound of the great Jimi's Hendrix guitar solo. but
             now, thank to God I can overcome it little by little and send me
-            good peoples to help me passing through hard times.
+            great peoples to help me passing through hard times.
           </p>
         </div>
       </div>
