@@ -49,7 +49,7 @@ const Center = styled.div`
 
 const Logo = styled.h1`
   font-weight: bold;
-`;
+  `;
 
 const Right = styled.div`
   flex: 1;
